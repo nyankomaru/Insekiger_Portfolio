@@ -271,6 +271,4 @@ Unreal Engineのテンプレート由来のコードや、先輩制作アセッ�
 ---
 
 ## リンク
-- 実行データ：[GitHub Releases](../../releases/latest)
-- スケジュール表：[Google Drive](https://docs.google.com/spreadsheets/d/1KpbZD9pOPROvlWqtRmUJULd2QSJhoyQL/edit?usp=drive_link&ouid=105859426525924584680&rtpof=true&sd=true)
-- プログラム以外の制作物：準備中
+- 実行データ：https://github.com/nyankomaru/Insekiger_Portfolio/releases/tag/v1.0.0
